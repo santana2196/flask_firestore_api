@@ -5,7 +5,7 @@
 <h2> Obra a Maos </h2>
 
 <h1> 
-<img src=media2.giphy.com/media/o28elTLxOjiRW/giphy.gif width="300px"/> 
+<img src=https://media2.giphy.com/media/o28elTLxOjiRW/giphy.gif width="300px"/> 
 </h1>
 
 <h3>Criar o ambiente virtual</h3>
